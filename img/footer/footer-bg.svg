@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1692" height="517" viewBox="0, 0, 1692, 517">
+  <defs>
+    <linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="534.269" y1="1297.789" x2="534.269" y2="755.5" gradientTransform="matrix(1, 0, 0, 1, 474.633, -573.356)">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#9FDCFF"/>
+    </linearGradient>
+    <clipPath id="Clip_1">
+      <path d="M0,0 L1692,0 L1692,517 L0,517 z"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1">
+    <g clip-path="url(#Clip_1)">
+      <path d="M-21.209,552 C41.001,472.989 136.631,319.69 230.401,246.51 C577.962,-24.168 734.453,278.456 1296.684,42.117 C1653.136,-107.721 1702.244,281.304 1690.467,550.852 z" fill="#00A3FF"/>
+      <path d="M243.485,724.434 C202.085,538.723 339.944,476.457 471.512,380.167 C727.06,193.543 841.768,370.311 1255.155,207.367 C1668.542,44.423 1519.725,724.438 1519.725,724.438 z" fill="#FFFFFF" opacity="0.05"/>
+      <path d="M1656.317,724.433 C1697.717,538.723 1559.858,476.456 1428.29,380.167 C1172.742,193.544 1058.033,370.311 644.647,207.363 C231.261,44.415 380.077,724.433 380.077,724.433 z" fill="url(#Gradient_1)"/>
+    </g>
+  </g>
+</svg>
